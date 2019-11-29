@@ -16,16 +16,11 @@ a,article,aside,blockquote,body,canvas,caption,code,dd,div,dl,dt,fieldset,figcap
   scroll-behavior: smooth;
   overflow-x: scroll;
 }.nk-slide {
-  font-size: 1.5em;
   display: grid;
   justify-items: center;
   -webkit-box-align: center;
           align-items: center;
   position: relative;
-
-  .nk-cover {
-    font-size: 0.8em;
-  }
 }.go-next {
   position: absolute;
   right: 40px;
